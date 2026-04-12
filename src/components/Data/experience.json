@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Front End Developer At ABC Technologies",
+    "organisation": "Research And Product Company",
+    "startDate": "july, 2022",
+    "endDate": "july,2024",
+    "location": "Karachi , Pakistan",
+    "experiences": [
+      "Worked on Front End "
+      
+    ],
+    "imageSrc": "company/logo.png"
+  } 
+]
