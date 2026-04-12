@@ -9,11 +9,12 @@
   },
   {
     "key": 2,  
-    "title": "Research And Product",
-    "imageSrc": "company/site.jpg",
+    "title": "NewZone Travel&Tours",
+    "imageSrc": "company/newzone.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://new-zone-travelling7-tours.vercel.app",
-    "source": "https://www.github.com"
+    "demo": "https://new-zone-travelling7-tours.vercel.app/",
+    
+    "source": "https://github.com/syeddilawarraza/NewZoneTravelling7Tours.git"
   },
   {
     "key": 3,
