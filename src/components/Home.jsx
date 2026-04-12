@@ -82,7 +82,7 @@ const Home = () => {
         <div className="container home">
           <div className="container left">
             <p ref={typedRef}></p>
-            <a href={pdf} download="Resume.pdf" className="btn btn-outline-warning">
+            <a href={pdf} download="SyedDillawar.pdf" className="btn btn-outline-warning">
               Download Resume
             </a>
           </div>
