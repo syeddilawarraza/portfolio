@@ -44,7 +44,7 @@
 
 // export default Home;
  import React, { useEffect, useRef } from "react";
-import pdf from '../components/pdf/Resume.pdf'
+import pdf from '../components/pdf/MernStack-CV.pdf'
 import hero from './Data/hero.json'
 import Typed from "typed.js";
 import Experience from "./Experience";
@@ -82,7 +82,7 @@ const Home = () => {
         <div className="container home">
           <div className="container left">
             <p ref={typedRef}></p>
-            <a href={pdf} download="SyedDillawar.pdf" className="btn btn-outline-warning">
+            <a href={pdf} download="MernStack-CV.pdf" className="btn btn-outline-warning">
               Download Resume
             </a>
           </div>
