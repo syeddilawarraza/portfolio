@@ -18,11 +18,11 @@
   },
   {
     "key": 3,
-    "title": "Research And Product",
+    "title": "BedSheet",
     "imageSrc": "company/site.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://bedsheet-website-sigma.vercel.app/",
+    "source": "https://github.com/syeddilawarraza/bedsheet-website"
   },
   {
     "key": 4,
